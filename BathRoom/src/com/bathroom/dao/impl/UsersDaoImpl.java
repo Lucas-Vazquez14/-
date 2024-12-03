@@ -86,8 +86,8 @@ public class UsersDaoImpl implements UsersDao {
             ps = conn.prepareStatement(sql);
             ps.setString(1, username);
             rs = ps.executeQuery();
-            if (rs.next()) {
-                long id = rs.getLong("id");f
+            if (rs.next()) {                
+                long id = rs.getLong("id");
                 String name = rs.getString("name");
                 String password = rs.getString("password");
                 int num = rs.getInt("num");
