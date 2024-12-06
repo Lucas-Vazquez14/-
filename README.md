@@ -13,7 +13,7 @@
 
 ## 三、项目演示
 
-*http://*
+*[http://](https://www.xiaohongshu.com/explore/6752b3200000000007031661?xsec_token=ABPj7OraHFe8SrAE-lwkzb5KbE7bZAr8QFuDUK-dNfEFk=&xsec_source=pc_user)*
 
 ## 四、数据库字段
 - users表
